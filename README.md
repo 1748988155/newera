@@ -1,18 +1,18 @@
-# AI Smart Home Robot
+# AI智能家居机器人
 
-My 90-day journey to build an AI smart home robot.
+我打造AI智能家居机器人的90天历程。
 
-## Goals
+##目标
 
-Build a smart home system with:
+构建智能家居系统，包括:
 
-- ESP32 hardware control
-- AI voice assistant
-- Home automation
-- Computer vision
+- ESP32硬件控制
+- AI语音助手
+-家庭自动化
+-计算机视觉
 
-## Project Structure
+##项目结构
 
-logs/ → development logs  
-code/ → source code  
-docs/ → project documentation
+日志/ →开发日志
+代码/ →源代码
+文档/ →项目文档
